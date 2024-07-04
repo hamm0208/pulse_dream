@@ -1,0 +1,47 @@
+[
+  {
+    "name": "911 Carrera 4s",
+    "image": "carrera_4s.jpg",
+    "rate": 1500,
+    "seats": "2 Seats",
+    "transmission": "Manual",
+    "fuel": "~10.7l / 100km",
+    "description": "The 911 Carrera 4S is an iconic sports car that epitomizes performance and luxury. With its sleek design, powerful engine, and advanced technology, it delivers an exhilarating driving experience. Whether navigating city streets or carving through winding roads, the 911 Carrera 4S offers unmatched agility and precision."
+  },
+  {
+    "name": "911 Carrera",
+    "image": "carrera.jpg",
+    "rate": 1000,
+    "seats": "4 Seats",
+    "transmission": "Automatic",
+    "fuel": "~10.5l / 100km",
+    "description": "The Porsche 911 Carrera is a legendary sports car renowned for its iconic design, powerful flat-six engine, and superb handling. Launched in 1964, it combines cutting-edge technology with a timeless silhouette. Offering both rear-wheel and all-wheel drive, the 911 Carrera delivers a thrilling driving experience and luxurious, customizable interiors, making it a favorite among driving enthusiasts."
+  },
+  {
+    "name": "718 Boxster",
+    "image": "718_boxster.jpg",
+    "rate": 750,
+    "seats": "2 Seats",
+    "transmission": "Automatic",
+    "fuel": "~9.55l / 100km",
+    "description": "The Porsche 718 Boxster is a sports convertible that offers an open-top driving experience with excellent handling and a luxurious interior. It's versatile and fun, making it a practical choice for daily use while enjoying the thrill of a convertible."
+  },
+  {
+    "name": "Taycan Turbo",
+    "image": "taycan_turbo.jpg",
+    "rate": 900,
+    "seats": "5 Seats",
+    "transmission": "Automatic",
+    "fuel": "18.6 kWh/100 km",
+    "description": "The Taycan Turbo redefines the electric vehicle experience, seamlessly blending electrifying performance with unparalleled luxury. It represents the pinnacle of Porsche's commitment to innovation, offering drivers a thrilling ride characterized by instant acceleration and precise handling."
+  },
+  {
+    "name": "718 Cayman",
+    "image": "718_cayman.jpg",
+    "rate": 500,
+    "seats": "2 Seats",
+    "transmission": "Automatic",
+    "fuel": "~9.6l / 100km",
+    "description": "The 718 Cayman is a masterpiece of automotive engineering, blending agility, performance, and style in perfect harmony. With its mid-engine layout, this sports car offers exceptional balance and handling, making every twist and turn on the road a thrilling experience."
+  }
+]

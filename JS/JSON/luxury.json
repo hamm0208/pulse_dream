@@ -1,0 +1,47 @@
+[
+    {
+      "name": "918 Spyder",
+      "image": "918_spyder.jpg",
+      "rate": 9000,
+      "seats": "2 Seats",
+      "transmission": "Automatic",
+      "fuel": "~10.1l / 100km",
+      "description": "The Porsche 918 Spyder epitomizes automotive luxury with its seamless blend of cutting-edge hybrid technology and opulent design. "
+    },
+    {
+      "name": "Carrera GT",
+      "image": "carrera_gt.jpg",
+      "rate": 8000,
+      "seats": "2 Seats",
+      "transmission": "Manual",
+      "fuel": "16.2 kWh/ 100 km",
+      "description": "The Porsche Carrera GT stands as a beacon of luxury in the realm of supercars,  it boasts a sophisticated interior lined with leather and carbon fiber, offering an unparalleled driving experience."
+    },
+    {
+      "name": "718 Cayman GT4 RS",
+      "image": "718_cayman_gt4_rs.jpg",
+      "rate": 6000,
+      "seats": "2 Seats",
+      "transmission": "Automatic",
+      "fuel": "~9.9l /100 km",
+      "description": "The Porsche 718 Cayman GT4 RS elevates luxury in the sports car category with its precision engineering and refined aesthetics."
+    },
+    {
+      "name": "Taycan Turbo S Cross Turismo",
+      "image": "taycan_turbo_s_CT.jpg",
+      "rate": 5000,
+      "seats": "4 Seats",
+      "transmission": "Automatic",
+      "fuel": "16.2 kWh/ 100 km",
+      "description": "The Porsche Taycan Turbo S Cross Turismo redefines electric luxury with its spacious design and cutting-edge electric drivetrain."
+    },
+    {
+      "name": "911 GT3 RS",
+      "image": "911_gt3.jpg",
+      "rate": 7000,
+      "seats": "2 Seats",
+      "transmission": "Manual",
+      "fuel": "~11.8l /100 km",
+      "description": "The Porsche 911 GT3 RS represents the pinnacle of luxury in high-performance driving. With its naturally aspirated flat-six engine, extensive use of lightweight materials, and aerodynamic enhancements."
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "name":"911 Carrera 4s", 
+        "rate":1500},
+    {
+        "name":"911 Carrera", 
+        "rate":1000},
+    {
+        "name":"718 Boxster", 
+        "rate":750},
+    {
+        "name":"Taycan Turbo", 
+        "rate":900},
+    {
+        "name":"718 Cayman", 
+        "rate":500},
+    {
+        "name": "Panamera 4", 
+        "rate": 2000},
+    {
+        "name": "Panamera Turbo E-Hybrid", 
+        "rate": 1400},
+    {
+        "name": "Macan S", 
+        "rate": 3300},
+    {
+        "name": "Macan", 
+        "rate": 2000},
+    {
+        "name": "Cayenne S", 
+        "rate": 1200},
+    {
+        "name": "Cayenne Coupé", 
+        "rate": 2000},
+    {
+        "name": "918 Spyder",
+        "rate": 9000
+    },
+    {
+        "name": "Carrera GT",
+        "rate": 8000
+    },
+    {
+        "name": "718 Cayman GT4 RS",
+        "rate": 6000
+    },
+    {
+        "name": "Taycan Turbo S Cross Turismo",
+        "rate": 5000
+    },
+    {
+        "name": "911 GT3 RS",
+        "rate": 7000
+    }
+]

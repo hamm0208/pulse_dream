@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Panamera 4",
+      "image": "panamera.jpeg",
+      "rate": 2000,
+      "seats": "4 Seats",
+      "transmission": "Manual",
+      "fuel": "~10.1l / 100km",
+      "description": "The Porsche Panamera 4 is a versatile luxury sports car that also functions well as a family vehicle. It offers a spacious interior with comfortable seating for four, ample legroom, and a sizable trunk."
+    },
+    {
+      "name": "Panamera Turbo E-Hybrid",
+      "image": "panamera_turbo.jpg",
+      "rate": 1400,
+      "seats": "5 Seats",
+      "transmission": "Automatic",
+      "fuel": "16.2 kWh/ 100 km",
+      "description": "The Panamera Turbo is a high-performance luxury sedan offering a blend of luxury, comfort, and impressive speed. It features a powerful engine and advanced technology for a thrilling driving experience."
+    },
+    {
+      "name": "Macan S",
+      "image": "macan_s.jpg",
+      "rate": 3300,
+      "seats": "5 Seats",
+      "transmission": "Automatic",
+      "fuel": "~9.9l /100 km",
+      "description": "The Macan is a compact luxury crossover SUV known for its sporty handling and upscale interior. It offers a balance of practicality and performance, making it a popular choice among luxury SUV enthusiasts."
+    },
+    {
+      "name": "Macan",
+      "image": "macan.jpg",
+      "rate": 2000,
+      "seats": "5 Seats",
+      "transmission": "Manual",
+      "fuel": "~10.1l / 100km",
+      "description": "The Macan S is a variant of the Macan lineup, offering enhanced performance and additional features compared to the base model. It delivers a higher level of power and agility while maintaining the luxurious feel of the Macan."
+    },
+    {
+      "name": "Cayenne S",
+      "image": "cayenne_s.jpg",
+      "rate": 1200,
+      "seats": "5 Seats",
+      "transmission": "Automatic",
+      "fuel": "~11.8l /100 km",
+      "description": "The Cayenne S is a mid-range variant of Porsche's flagship SUV, the Cayenne. It combines powerful performance with spaciousness and versatility, making it suitable for both daily driving and spirited adventures."
+    },
+    {
+      "name": "Cayenne Coupé",
+      "image": "cayenne_coupe.jpg",
+      "rate": 2000,
+      "seats": "5 Seats",
+      "transmission": "Automatic",
+      "fuel": "~11.8l /100 km",
+      "description": "The Cayenne Coupé is a sleek and stylish variant of the Cayenne SUV, featuring a coupe-like roofline for a sportier appearance. It offers similar performance and features to the standard Cayenne but with a more dynamic design."
+    }
+]
